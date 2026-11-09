@@ -1,0 +1,12 @@
+# Swift / build output
+.build/
+build/
+*.xcodeproj/
+.swiftpm/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Local backups
+assets/*-backup.png

@@ -19,6 +19,14 @@ Android Share is a native macOS app (SwiftUI, no dependencies) for moving photos
 | **Wi-Fi Transfer** | Any phone, including Xiaomi / Huawei / OPPO / vivo China ROMs without Google services | Just a web browser: scan a QR code once |
 | **USB Cable** | Big files: long videos, 2 GB, 20 GB+, whole folders | USB debugging turned on (once) |
 
+## Screenshots
+
+| Quick Share | Wi-Fi Transfer |
+|---|---|
+| ![Quick Share](assets/screenshots/quick-share.png) | ![Wi-Fi Transfer](assets/screenshots/wifi-transfer.png) |
+| **USB Cable** | **User Guide** |
+| ![USB Cable](assets/screenshots/usb.png) | ![User Guide](assets/screenshots/guide.png) |
+
 **Rule of thumb:** light transfers → wireless, heavy transfers → USB. A cable is usually 3–10× faster for anything over about 1 GB. The app has a built-in **User Guide** that explains this.
 
 ## Features

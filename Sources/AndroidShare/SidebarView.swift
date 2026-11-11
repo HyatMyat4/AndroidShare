@@ -45,7 +45,7 @@ struct SidebarView: View {
                         }
                     }
                 }
-                Section {
+                Section("Share") {
                     HStack {
                         Label("Quick Share", systemImage: "square.and.arrow.down.on.square")
                         Spacer()
